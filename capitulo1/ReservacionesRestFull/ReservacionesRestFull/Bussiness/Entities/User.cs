@@ -1,0 +1,22 @@
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Text.Json.Serialization;
+
+namespace ReservacionesRestFull.Bussiness.Entities
+{
+    public class User
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        [JsonIgnore]
+        public string Password { get; set; }
+
+        public User(int Id, string Name, string Email, string Password) {
+            this.Id = Id;
+            this.Name = Name;
+            this.Email = Email;
+            this.Password = Password;
+        }
+        public User() { }
+    }
+}
