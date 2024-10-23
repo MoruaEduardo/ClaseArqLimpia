@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\MVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF30177D-29C4-48F7-A083-A46C7B9251A2}|MVCApp\\MVCApp.fsproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\mvcapp\\mvcapp\\controllers\\homecontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{DF30177D-29C4-48F7-A083-A46C7B9251A2}|MVCApp\\MVCApp.fsproj|solutionrelative:mvcapp\\controllers\\homecontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.fs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\MVCApp\\MVCApp\\Controllers\\HomeController.fs",
+              "RelativeDocumentMoniker": "MVCApp\\Controllers\\HomeController.fs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\capitulo1\\MVCApp\\MVCApp\\Controllers\\HomeController.fs",
+              "RelativeToolTip": "MVCApp\\Controllers\\HomeController.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T21:10:32.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
